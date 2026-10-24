@@ -3,10 +3,6 @@ layout: default
 title: Hello
 ---
 
-> *Explore the world. Nearly everything is really interesting if you go into it deeply enough.*
->
-> — Richard Feynman
-
 ### Hi there. Welcome to my photoblog.
 
 I'm *Ann*. I like to take photos, and write about random things.
