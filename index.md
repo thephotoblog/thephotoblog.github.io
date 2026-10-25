@@ -7,6 +7,8 @@ title: Hello
 
 I'm *Ann*. I like to take photos, and write about random things.
 
+I love cats and dogs.
+
 This is <i>Seven</i>. He is loyal, loving, and protective, but also naughty, throws tantrums, and eats just about anything and everything.
 
 <div class="image-gallery">
