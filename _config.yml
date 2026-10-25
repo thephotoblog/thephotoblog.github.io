@@ -71,7 +71,7 @@ links:
   # Projects: /projects/
   # Resume: /assets/resume.pdf
 
-paginate: 15      # Number of posts per page
+paginate: 10      # Number of posts per page
 paginate_path: "/blog/page:num/"  # Path for pages 2,3,...
 
 # Add links for more focus here
